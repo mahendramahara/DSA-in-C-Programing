@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in C Programming
 
-Welcome to the Data Structures and Algorithms in C Programming repository! This repository contains implementations of various data structures and algorithms in the C programming language. Whether you're learning about fundamental data structures or exploring advanced algorithms, you'll find practical examples and explanations here...
+Welcome to the Data Structures and Algorithms in C Programming repository! This repository contains implementations of various data structures and algorithms in the C programming language. Whether you're learning about fundamental data structures or exploring advanced algorithms, you'll find practical examples and explanations here.
 
 ## Quick Access
 
